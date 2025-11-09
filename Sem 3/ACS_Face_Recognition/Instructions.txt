@@ -1,0 +1,66 @@
+Overall Project Software Summary from Scrath (for Developer) :
+
+1. Create a directory/folder of any name in D/E/F drive (Never use C drive for it). e.g. ai
+
+2. That folder should have 3 files in it i.e.
+(i) Facial_Recognition_Software.py
+(ii) icon.png
+(iii) haarcascade_frontalface_default.xml
+
+3. Open VS Code & do following :
+(i) Open this folder in it (Use "Control + K + O" & select this folder e.g. named ai).
+
+(ii) Open Facial_Recognition_Software.py
+
+(iii) Open Terminal (by clicking Terminal in topmost panel).
+
+(iv) Run the following commands one by one to create & configure virtual environment :
+python -m venv vev
+
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+Get-ExecutionPolicy
+
+Get-ExecutionPolicy -list
+
+vev\scripts\activate
+
+(v) (vev) will be written in terminal after virtual environment is activated.
+
+(vi) Now install libraries in Virtual Environment you just set named "vev" by using following commands "
+pip install os-sys
+pip install python-csv
+pip install tk
+pip install tk-tools
+pip install opencv-python
+pip install opencv-contrib-python
+pip install numpy
+pip install imutils
+pip install times
+pip install urllib3
+
+(viii) After installing libraries, then execute the code from the instructions below (common to both user & developer) :
+
+***************************************************************************************************************************************************************************
+
+Instructions to run this model (for User) :
+
+1. Create account
+"""Make sure icon.png & haarcascade_frontalface_default.xml files are there in your project's directory."""
+"""Also make sure Virtual environment is activated with libraries installed in it."""
+- Open "Facial_Recognition_Software.py" & run it.
+- Enter Name in "Name" Section, Roll No./Enrollment No. in "User ID" section & Select "Gender".
+- Click "SAVE PROFILE".
+- Excel sheet named "students" (students.csv) will be created having Names & Roll No.s of students.
+
+2. Take Images
+- Click "TAKE IMAGES".
+- It will create a directory named "dataset".
+- Then it will open another winddow to take 30 images then it will close.
+- Those 30 images will be saved in a directory inside "dataset" named "Your name which you filled while creating your profile".
+- These saved images will be used for recognition.
+
+3. Recognition
+- Click "RECOGNIZE" for recognizing a person based on the dataset you have.
+- This can be done from multiple camera sources as per need. e.g. laptop, mobile, ESP32 with Camera Module OV-2640.
+- The Recognition can be coupled with alarm systems, based on the usage of this Facial Recognition System.
