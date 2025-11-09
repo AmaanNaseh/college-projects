@@ -3,6 +3,8 @@
 This project demonstrates an **AI-assisted welding process simulation** for **TIG (Tungsten Inert Gas)** and **MIG (Metal Inert Gas)** welding modes, focusing on **stainless steel** welding automation.  
 It uses a **Flask-based backend (Python + scikit-learn)** for predictive modeling and a **React-based frontend** for visualization and user interaction.
 
+#### Deployed Link: https://automatic-tig-mig-welding.netlify.app
+
 ---
 
 ## 🚀 Overview

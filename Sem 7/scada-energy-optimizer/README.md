@@ -6,6 +6,8 @@ This project is an **AI-Powered Energy Optimization System** integrated with a S
 
 The system allows operators to monitor environmental parameters in real-time, predict energy usage, and adjust operations for maximum efficiency. It is designed to integrate into existing industrial automation workflows for **smart energy management**.
 
+#### Deployed Link: https://scada-energy-optimizer.netlify.app
+
 ---
 
 ## Table of Contents

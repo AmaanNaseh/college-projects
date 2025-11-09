@@ -34,6 +34,8 @@ This project aims to optimize energy of a custom SCADA-based environment through
 
 #### TechStack: Python, Scikit Learn (Supervised ML), Flask, React.js, Tailwind CSS, Figma
 
+#### Deployed Link: https://scada-energy-optimizer.netlify.app
+
 ### Screenshots
 
 <img width="1919" height="686" alt="Image" src="https://github.com/user-attachments/assets/1cd8ef87-a951-412c-8dc6-3ac5b2126209" />
@@ -46,12 +48,10 @@ This project aims to predict & simulate welding performance through machine lear
 
 #### TechStack: Python, Scikit Learn (Supervised ML), Flask, React.js, Tailwind CSS, Figma
 
+#### Deployed Link: https://automatic-tig-mig-welding.netlify.app
+
 ### Screenshots
 
-<img width="962" height="789" alt="Image" src="https://github.com/user-attachments/assets/1a498016-22ec-4409-b895-4e7c5ab7d0ae" />
-
 <img width="957" height="700" alt="Image" src="https://github.com/user-attachments/assets/a2809ef6-2063-4197-aabd-faf89527c674" />
-
-<img width="1036" height="523" alt="Image" src="https://github.com/user-attachments/assets/e548dbc3-f4b8-4d6d-95a8-e3579e3989f0" />
 
 <img width="674" height="452" alt="Image" src="https://github.com/user-attachments/assets/c5773104-0ab9-465a-a9c1-dc7d8377b8ee" />
