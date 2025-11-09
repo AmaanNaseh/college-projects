@@ -28,7 +28,21 @@ This project aims to optimize energy of a custom environment by monitoring energ
 
 ---
 
-### 3. SCADA Energy Optimizer
+### 3. Vespera Official Website (AWSCC x IOSC USAR Clubs)
+
+This is a modern website built to showcase various events that are conducted in Vespera 2024, USAR.
+
+#### TechStack: React.js, Tailwind CSS
+
+#### Deployed Link: https://vespera-usar.netlify.app
+
+### Screenshots
+
+<img width="1920" height="1012" alt="Image" src="https://github.com/user-attachments/assets/34a5297b-5633-4872-a7bf-1f2ad28ef0b2" />
+
+--
+
+### 4. SCADA Energy Optimizer
 
 This project aims to optimize energy of a custom SCADA-based environment through different types of inputs from motors and sensors, controlled through a Human Machine Interface (HMI) virtually. This is my solo project.
 
@@ -42,7 +56,7 @@ This project aims to optimize energy of a custom SCADA-based environment through
 
 ---
 
-### 4. Automatic TIG MIG Welding (Minor Project)
+### 5. Automatic TIG MIG Welding (Minor Project)
 
 This project aims to predict & simulate welding performance through machine learning. This is my solo project.
 

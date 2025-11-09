@@ -65,10 +65,10 @@ ML Engine (RandomForest Models trained on synthetic data)
 
 ```bash
 # Clone repository
-git clone https://github.com/AmaanNaseh/sem7-minor-project.git
+git clone https://github.com/AmaanNaseh/college-projects.git
 
 # Navigate to Backend
-cd Website/backend
+cd Sem 7/automatic-tig-mig-welding/backend
 
 # Install dependencies
 pip install -r requirements.txt
@@ -125,7 +125,7 @@ python app.py
 
 ```bash
 # Navigate to Frontend
-cd Website/frontend
+cd Sem 7/automatic-tig-mig-welding/frontend
 
 # Install Dependencies
 npm install

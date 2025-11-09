@@ -152,8 +152,9 @@ A manufacturing plant wants to optimize its HVAC, lighting, and machinery energy
 
 ```bash
 # Clone repository
-git clone <repo_url>
-cd backend
+git clone https://github.com/AmaanNaseh/college-projects.git
+
+cd Sem 7/scada-energy-optimizer/backend
 
 # Install dependencies
 pip install flask numpy scikit-learn flask-cors
@@ -165,9 +166,9 @@ python app.py
 ### Frontend Setup
 
 ```bash
-cd frontend
+cd Sem 7/scada-energy-optimizer/frontend
 npm install
-npm start
+npm run dev
 ```
 
 ### Access
